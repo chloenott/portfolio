@@ -1,3 +1,3 @@
 # Portfolio
 
-[chloenott.netlify.app](chloenott.netlify.app)
+[chloenott.netlify.app](https://chloenott.netlify.app)

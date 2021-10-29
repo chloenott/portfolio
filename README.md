@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Portfolio
 
-Make it your own! 
+[chloenott.netlify.app](chloenott.netlify.app)

@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Chloe Nott. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "I’m Chloe Nott and I'm a former manufacturing engineer who is currently pursuing additional education in software development. I decided to change my path partly because I really enjoyed playing with data while I was a manufacturing engineer and partly because I am confused why data isn’t used more than it is in other contexts. I think part of the reason is because there’s still more opportunities to make user friendly software tools to make that happen, so hopefully I can help with that in the future. In any case, I’m currently enjoying learning a new skill at the moment, and this introduction will likely change as I progress over the next few months.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",

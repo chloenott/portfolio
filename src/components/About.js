@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
+import jsIcon from "@iconify/icons-logos/javascript";
 import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
+import pyIcon from "@iconify/icons-logos/python";
 
 class About extends Component {
   render() {
@@ -31,7 +31,7 @@ class About extends Component {
                     alt="Avatar placeholder"
                   />
                   <Icon
-                    icon={angularIcon}
+                    icon={jsIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
@@ -39,7 +39,7 @@ class About extends Component {
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={vueIcon}
+                    icon={pyIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
@@ -50,23 +50,6 @@ class About extends Component {
               <div className="col-md-10">
                 <div className="card">
                   <div className="card-header">
-                    <span
-                      className="iconify"
-                      data-icon="emojione:red-circle"
-                      data-inline="false"
-                    ></span>{" "}
-                    &nbsp;{" "}
-                    <span
-                      className="iconify"
-                      data-icon="twemoji:yellow-circle"
-                      data-inline="false"
-                    ></span>{" "}
-                    &nbsp;{" "}
-                    <span
-                      className="iconify"
-                      data-icon="twemoji:green-circle"
-                      data-inline="false"
-                    ></span>
                   </div>
                   <div
                     className="card-body font-trebuchet text-justify ml-3 mr-3"

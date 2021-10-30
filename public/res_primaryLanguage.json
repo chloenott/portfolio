@@ -42,14 +42,11 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "",
+        "title": "Placeholder",
+        "startDate": "2021",
         "description": "I used to take pictures for fun!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.JPG",
-          "images/portfolio/photography/p3.JPG",
-          "images/portfolio/photography/p4.jpg"
+          "images/portfolio/photography/p2.JPG"
         ],
         "url": "https://github.com/chloenott/big-textbox",
         "technologies": [

@@ -62,37 +62,55 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Rosemount Specialty Products",
+        "title": "Design Engineer - R&D",
+        "years": "2013 - 2017",
         "mainTech": [
-          "Angular 8/9/10"
+          ""
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Python","C","LabView","VBA"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Rosemount Specialty Products",
+        "title": "Design Engineer - Manufacturing",
+        "years": "2017 - 2018",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Python",
+          "R",
+          "VBA"
+        ]
+      },
+      {
+        "company": "Rosemount Specialty Products",
+        "title": "Project Engineer - Manufacturing",
+        "years": "2018 - 2020",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Tableau",
+          "VBA",
+          "Python",
+          "Minitab"
+        ]
+      },
+      {
+        "company": "Rosemount Specialty Products",
+        "title": "Senior Manufacturing Engineer",
+        "years": "01.2020 - 09.2020",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Tableau",
+          "VBA",
+          "Python",
+          "Minitab"
         ]
       }
     ]
